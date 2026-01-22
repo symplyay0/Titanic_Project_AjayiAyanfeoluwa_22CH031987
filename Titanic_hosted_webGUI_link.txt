@@ -1,0 +1,6 @@
+Name: Ajayi Ayanfeoluwa
+Matric Number: 22CH031987
+Machine Learning Algorithm Used: Logistic Regression
+Model Persistence Method Used: Joblib
+Live URL: https://titanic-project-ajayiayanfeoluwa.onrender.com
+GitHub Repository Link: https://github.com/symplyay0/Titanic_Project_AjayiAyanfeoluwa_22CH031987
